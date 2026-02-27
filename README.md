@@ -29,7 +29,4 @@
 ## 🛢️Database Supabase
 <p align="center">
 <img width="243" height="445" alt="Screenshot 2026-02-28 014515" src="https://github.com/user-attachments/assets/92a4e54a-1052-4baa-a3a3-b1e947112363" />
-
 </p>
-### แผนผังฐานข้อมูล
-<img width="316" height="723" alt="image" src="https://github.com/user-attachments/assets/db666ad4-f2fd-4a02-aaf2-6d497c8db410" />
