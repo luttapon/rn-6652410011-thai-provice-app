@@ -1,50 +1,34 @@
-# Welcome to your Expo app 👋
+# 🏯 Thailand Travel in Lampang (rn-6652410011-thai-province-app)
+**แอปพลิเคชันแนะนำสถานที่ท่องเที่ยวและร้านค้าในจังหวัดลำปาง**
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+---
 
-## Get started
+## 📱 รายละเอียดโปรเจกต์
+แอปพลิเคชันคู่มือสำหรับรวบรวมข้อมูลสถานที่สำคัญในจังหวัดลำปาง โดยแบ่งหมวดหมู่เป็น สถานที่ท่องเที่ยว, ร้านอาหาร, คาเฟ่, วัด และงานประเพณีโดยเน้นการออกแบบที่ใช้งานง่ายและเข้าถึงง่ายเพื่อให้คุณสามารถท่องเที่ยวได้อย่่างสนุก
 
-1. Install dependencies
+### 🌟 ฟีเจอร์ (Key Features)
+* **Splash / Welcome Screen:** หน้าจอเริ่มต้นพร้อมภาพประกอบ Guide ประจำจังหวัดลำปาง
+* **Category Filter:** สามารถกรองหมวดหมู่สถานที่ได้ง่ายๆ (ทั้งหมด, Cafe, Restaurant, Tourist Attraction, Festival)
+* **Place Listings:** แสดงรายการสถานที่พร้อมรูปภาพปก ชื่อสถานที่ และตำแหน่งที่ตั้ง เบอร์โทรศัพท์, คำอธิบายสั้นๆ และภาพบรรยากาศ
+* **Map Integration:** มีปุ่ม "ดูเส้นทางบนแผนที่" เพื่อลิงก์ไปยังแอปพลิเคชันแผนที่สำหรับการเดินทาง
+<br>
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 📸 App Screenshots
 
-   ```bash
-   npx expo start
-   ```
+<p align="center">
+ <img width="229" height="415" alt="14" src="https://github.com/user-attachments/assets/f01eb253-3eac-4b92-9c9b-644f84837685" />
+<img width="194" height="398" alt="12" src="https://github.com/user-attachments/assets/4f327291-2a32-4aa1-9084-621cadc45635" />
+<img width="195" height="401" alt="13" src="https://github.com/user-attachments/assets/3ba3a3ab-f3d8-4e06-8f97-4d6face5c000" />
+<img width="195" height="401" alt="Screenshot 2026-02-28 013930" src="https://github.com/user-attachments/assets/47090619-5918-49b6-a2c8-98a50424c462" />
 
-In the output, you'll find options to open the app in a
+</p>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🛢️Database Supabase
+<p align="center">
+<img width="243" height="445" alt="Screenshot 2026-02-28 014515" src="https://github.com/user-attachments/assets/92a4e54a-1052-4baa-a3a3-b1e947112363" />
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+</p>
+### แผนผังฐานข้อมูล
+<img width="316" height="723" alt="image" src="https://github.com/user-attachments/assets/db666ad4-f2fd-4a02-aaf2-6d497c8db410" />
